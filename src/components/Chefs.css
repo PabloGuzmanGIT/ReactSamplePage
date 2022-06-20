@@ -1,0 +1,28 @@
+#btnBuscar {
+  background-color: #c54545;
+  border: none;
+}
+#btnBuscar:hover {
+  background-color: #b33333;
+}
+
+.tablehead {
+  background-color: #c54545;
+  border-radius: 5px;
+  color: antiquewhite;
+}
+tr {
+  background-color: rgb(250, 235, 215);
+  color: rgb(66, 44, 44);
+}
+tr:hover {
+ 
+  color: rgb(250, 235, 215);
+  padding: 50px;
+  background-color: rgb(95, 88, 160);
+  transition: transform 0.2s; /* Animation */
+  width: 40px;
+  height: 40px;
+  margin: 0 auto;
+  transform: scale(1.05);
+}

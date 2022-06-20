@@ -1,0 +1,7 @@
+#cards-productos .card{
+    text-align: center;
+    height: 100%;
+}
+#cards-productos .card img{
+    padding: 25px;
+}

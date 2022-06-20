@@ -1,0 +1,48 @@
+#nav{
+    background-color: rgb(76, 76, 160);
+    height: 6em;
+    
+    
+}
+.navbar-nav{
+    width: 100%;
+    align-content: center;
+    justify-content: space-evenly;
+    justify-items: center;
+    padding-left:2em;
+}
+#nav:hover{
+    background-color: rgb(119, 60, 153);
+ }
+
+#nav-link{
+    color: rgb(215, 218, 81);
+    padding-top: 1em;
+    padding-bottom: 1em;
+
+    border-top: solid 1px rgb(215, 218, 81);
+    border-bottom: solid 1px rgb(215, 218, 81);
+   
+    
+}
+#nav-item{
+    margin-left: 1em;
+}
+
+#nav-link:hover{
+    color: rgb(255, 255, 255);
+    border-top: solid 3px rgb(17, 16, 17);
+    border-bottom: solid 3px rgb(17, 16, 17);
+}
+
+#navbarDropdown{
+    color: rgb(215, 218, 81);
+}
+#navbarDropdown:hover{
+    color: rgb(255, 255, 255);
+}
+
+.navbar-toggler{
+    border-color: rgb(215, 218, 81);
+    background-color: rgb(238, 238, 224);
+}
